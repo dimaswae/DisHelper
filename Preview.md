@@ -24,13 +24,22 @@ User experience theme:
 - Mudah
 - Sederhana
 - Warna: light blue 
-Inspirasi desain:
 
 ## 2. User Story
 
-bla | bla | bla | bla
+Sebagai | Saya Ingin Bisa | Sehingga | Prioritas
 ---|---|---|---
-bla | bla | bla | ⭐⭐⭐⭐⭐
+Pengguna | bla | bla | ⭐⭐⭐⭐⭐
+---|---|---|---
+Pengguna | bla | bla | ⭐⭐⭐⭐⭐
+---|---|---|---
+Pengguna | bla | bla | ⭐⭐⭐⭐⭐
+---|---|---|---
+Pengguna | bla | bla | ⭐⭐⭐⭐⭐
+---|---|---|---
+Pengguna | bla | bla | ⭐⭐⭐⭐⭐
+
+
 
 ## 3. Struktur Data
 
