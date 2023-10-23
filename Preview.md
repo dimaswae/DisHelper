@@ -29,17 +29,11 @@ User experience theme:
 
 Sebagai | Saya Ingin Bisa | Sehingga | Prioritas
 ---|---|---|---
-Pengguna | bla | bla | ⭐⭐⭐⭐⭐
----|---|---|---
-Pengguna | bla | bla | ⭐⭐⭐⭐⭐
----|---|---|---
-Pengguna | bla | bla | ⭐⭐⭐⭐⭐
----|---|---|---
-Pengguna | bla | bla | ⭐⭐⭐⭐⭐
----|---|---|---
-Pengguna | bla | bla | ⭐⭐⭐⭐⭐
-
-
+Pengguna | Transcribe percakapan | dapat memahami apa yang orang ucapkan | ⭐⭐⭐⭐⭐
+Pengguna | Text to speech | Membacakan apa yang saya ketik | ⭐⭐⭐⭐⭐
+Pengguna | Mencari lokasi disekitar dengan fasilitas ramah disabilitas | Mendapat informasi mengenai fasilitas ramah disabilitas | ⭐⭐⭐⭐
+Pengguna | Memberikan  mengenai lokasi dengan fasilitas ramah disabilitas | Dapat memberikan tanggapan | ⭐⭐⭐
+Pengguna | Membalas Komentar | Dapat memberikan tanggapan | ⭐⭐⭐
 
 ## 3. Struktur Data
 
