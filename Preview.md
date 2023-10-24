@@ -78,7 +78,22 @@ flowchart BT
 ```
 ## 5. Teknologi, Library, dan Framework
 
-bla bla bla
+**Teknologi**
+-Teknologi AI
+-Teknologi Web
+-Teknologi Database
+-Teknologi Cloud Computing
+-Teknologi Mobile
+**Library**
+-React
+-Google Text-to-Speech/eSpeak
+-Google Cloud Speech-to-Text/Rev
+**Framework**
+-Express js
+-Next js
+-React Native
+
+Akan terus ditambahkan seiring masa development.
 
 ## 6. Desain User Experience dan User Interface
 
