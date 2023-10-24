@@ -47,7 +47,10 @@ erDiagram
 
 ## 4. Arsitektur Sistem
 
-Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
+  Web Server: JavaScript - Express.js
+  Aplikasi Web Backend: JavaScript - Express.js
+  Database: PostgreSQL 
+  Aplikasi Android & iPhone: JavaScript - React Native
 
 ## 5. Teknologi, Library, dan Framework
 
@@ -73,6 +76,8 @@ Link youtube nya di detik jawaban ini
 ## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
 
 Link youtube nya di detik jawaban ini
+
+ 
 
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
 
