@@ -37,12 +37,33 @@ Pengguna | Membalas Komentar | Dapat memberikan tanggapan | ⭐⭐⭐
 
 ## 3. Struktur Data
 
-Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di (https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
-
 ```mermaid
 erDiagram
-    RUJAK ||--o{ SAYUR : tersusun
-    PEMBELI ||--|{ RUJAK : beli
+  USER {
+    int id_pengguna
+    string username
+    string email
+    string password
+    string nama_lengkap
+    string jenis_kelamin
+    string jenis_disabilitas    
+    datetime tanggal_lahir
+  }
+  USER ||--o{ COMMENT : membuat
+  COMMENT ||--o{ COMMENT : membalas 
+  COMMENT {
+    int id_komentar
+    int id_komentar_yang_dibalas
+    int id_pengguna 
+    string isi_komentar 
+    datetime waktu_publikasi 
+  }
+  USER ||--o{HISTORY : menyimpan
+  HISTORY{
+    int id_riwayat
+    string isi_riwayat
+    datetime waktu_riwayat
+  }
 ```
 
 ## 4. Arsitektur Sistem
