@@ -97,8 +97,13 @@ Akan terus ditambahkan seiring masa development.
 
 ## 6. Desain User Experience dan User Interface
 
-Bisa load image 
-![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
+![Opening Page](https://github.com/dimaswae/DisHelper/assets/125195082/d334f838-5c7e-45ea-aa5d-a9c08dda2f73)
+![Sign in Page](https://github.com/dimaswae/DisHelper/assets/125195082/e36ffa28-0102-4be8-b2ab-a0a9f1005cf5)
+![Log in Page](https://github.com/dimaswae/DisHelper/assets/125195082/1af52ab6-3ff8-4a7f-a1fd-e92bf05979cc)
+![Verifiction Page](https://github.com/dimaswae/DisHelper/assets/125195082/7dce9ead-5131-4445-a061-a0596fdfe10b)
+![Home Page](https://github.com/dimaswae/DisHelper/assets/125195082/015cd67d-727c-422a-9446-9557d8747142)
+
+Masih dalam masa pengembangan....;(
 
 ## 7. Demonstrasi Video
 
