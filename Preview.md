@@ -107,22 +107,22 @@ Masih dalam masa pengembangan....;(
 
 ## 7. Demonstrasi Video
 
-![yt-video](https://youtu.be/SBmzYUaYZIc)
+https://youtu.be/SBmzYUaYZIc
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
 
-![yt-video](https://youtu.be/SBmzYUaYZIc)
+https://youtu.be/SBmzYUaYZIc
 
 ## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
 
-![yt-video](https://youtu.be/SBmzYUaYZIc)
+https://youtu.be/SBmzYUaYZIc
 
 ## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
 
-![yt-video](https://youtu.be/SBmzYUaYZIc)
+https://youtu.be/SBmzYUaYZIc
 
  
 
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
 
-![yt-video](https://youtu.be/SBmzYUaYZIc)
+https://youtu.be/SBmzYUaYZIc
