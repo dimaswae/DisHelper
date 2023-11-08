@@ -23,15 +23,20 @@ Target user:
 User experience theme:
 - Mudah
 - Sederhana
-- Warna: light blue 
+- Warna: light blue
+
+<img src="https://github.com/dimaswae/DisHelper/assets/125195082/33abafd1-a7ed-4972-9800-06d0d20516cd" width=50% height=50%><img src="https://github.com/dimaswae/DisHelper/assets/125195082/af798791-4c4f-4109-8cdb-edaf29257fb6" width=50% height=50%><img src="https://github.com/dimaswae/DisHelper/assets/125195082/01260c66-abb1-4716-a729-d0cce2f26af1" width=50% height=50%><img src="https://github.com/dimaswae/DisHelper/assets/125195082/36e67639-9d5c-4f7f-86fa-5cd4ba489179" width=50% height=50%><img src="https://github.com/dimaswae/DisHelper/assets/125195082/0178eb71-cd63-42ec-80e7-4f6befeea595" width=50% height=50%><img src="https://github.com/dimaswae/DisHelper/assets/125195082/9bc154c6-cca6-4966-87bf-3d9591c6b357" width=50% height=50%><img src="https://github.com/dimaswae/DisHelper/assets/125195082/8d22fab6-2755-415c-b193-8f5c339cddd4" width=50% height=50%>
 
 ## 2. User Story
 
 Sebagai | Saya Ingin Bisa | Sehingga | Prioritas
 ---|---|---|---
-Pengguna | Transcribe percakapan | dapat memahami apa yang orang ucapkan | ⭐⭐⭐⭐⭐
+Pengguna | Transcribe percakapan | Dapat memahami apa yang orang ucapkan | ⭐⭐⭐⭐⭐
 Pengguna | Text to speech | Membacakan apa yang saya ketik | ⭐⭐⭐⭐⭐
+Pengguna | Menyimpan Riwayat dari hasil Transcribe dan TTS | Dapat melihat ulang percakapan yang lalu | ⭐⭐⭐⭐⭐
+Pengguna | Metranslate percakapan ke BISINDO | Dapat memaham langsung percakapan memlalui bahasa isyarat |  ⭐⭐⭐⭐
 Pengguna | Mencari lokasi disekitar dengan fasilitas ramah disabilitas | Mendapat informasi mengenai fasilitas ramah disabilitas | ⭐⭐⭐⭐
+Pengguna | Memberikan rating mengenai lokasi dengan fasilitas ramah disabilitas | Dapat memberikan penilaian | ⭐⭐⭐
 Pengguna | Memberikan komentar mengenai lokasi dengan fasilitas ramah disabilitas | Dapat memberikan tanggapan | ⭐⭐⭐
 Pengguna | Membalas Komentar | Dapat memberikan tanggapan | ⭐⭐⭐
 
@@ -60,6 +65,7 @@ erDiagram
   }
   USER ||--o{HISTORY : menyimpan
   HISTORY{
+    int id_pengguna
     int id_riwayat
     string isi_riwayat
     datetime waktu_riwayat
@@ -70,7 +76,7 @@ erDiagram
 ```mermaid
 flowchart BT 
   subgraph cloud
-    B[Web Server: JavaScript - Express.js] <--> C[Aplikasi Web Backend: JavaScript - Express.js] 
+    B[Web Server: JavaScript - Express.js] <--> C[Aplikasi Web Backend: Python - flask] 
     C <--> D[Database: PostgreSQL] 
   end
   E[Aplikasi Web Frontend: JavaScript - React] <--> B 
@@ -79,15 +85,12 @@ flowchart BT
 ## 5. Teknologi, Library, dan Framework
 
 **Teknologi**
--Teknologi AI
--Teknologi Web
--Teknologi Database
--Teknologi Cloud Computing
--Teknologi Mobile
+Transcribe : Google Cloud Speech-to-Text/Rev/Whisper 1
+TTS        : Google Text-to-Speech/eSpeak/Whisper 1
 **Library**
--React
--Google Text-to-Speech/eSpeak
--Google Cloud Speech-to-Text/Rev
+- React
+- Python
+- 
 **Framework**
 -Express js
 -Next js
