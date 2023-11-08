@@ -85,16 +85,17 @@ flowchart BT
 ## 5. Teknologi, Library, dan Framework
 
 **Teknologi**
-Transcribe : Google Cloud Speech-to-Text/Rev/Whisper 1
-TTS        : Google Text-to-Speech/eSpeak/Whisper 1
+- Transcribe : Google Cloud Speech-to-Text/Rev/Whisper 1
+- TTS        : Google Text-to-Speech/eSpeak/Whisper 1
 **Library**
 - React
 - Python
-- 
+- SQL
+
 **Framework**
--Express js
--Next js
--React Native
+- Flask
+- Next js
+- React Native
 
 Akan terus ditambahkan seiring masa development.
 
